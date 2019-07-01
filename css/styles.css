@@ -50,10 +50,13 @@ a:hover {
   color: #EAF6F6;
 }
 
+.profile {
+  padding: 100px 0;
+}
 .top-container {
   background-color: #e3fdfd;
   position: relative;
-  padding-top: 100px;
+  padding: 100px 0;
 }
 
 .middle-container {
@@ -61,7 +64,6 @@ a:hover {
   width: auto;
   height: auto;
   font-style: oblique;
-  margin: 100px 0;
 }
 
 .bottom-container {
@@ -69,7 +71,10 @@ a:hover {
   padding: 50px 0 20px;
   width: auto;
   height: auto;
-
+}
+.ify-image {
+  height: 300px;
+  weight: 300px;
 }
 
 .pro {
